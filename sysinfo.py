@@ -64,4 +64,4 @@ def get_sys(num_clients=None):
 
 
 if __name__ == "__main__":
-    get_sys(0)
+    print (get_sys(0))
